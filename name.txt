@@ -1,0 +1,959 @@
+Gaurav Singh Rauthan
+Siddhant Chand
+Priyanshu Bisht
+Rajendra naithani
+Karan singh bisht
+Abhishek Negi 
+Gaurav (maku) 
+Aditya Kapruwan 
+Ankit bhatt 
+Priyanshu Goswami 
+Sarthak Rawat
+Rachit giri
+Priyanshu Rawat 
+Punit Bohra
+Krish Gusain 
+Mridul kawdal
+Abhishek dobhal
+Simon Negi 
+Chandan Joshi 
+Aman Mehra
+
+
+Ishant Singh Bisht 
+Aditya Chand
+Anubhav Patwal
+Aditya Chauhan
+Akhil
+Tarun Kandari
+Pratham
+Ayush Bisht 
+Tilak rawat 
+Sumit Verma 
+Akhil Padiyar
+Nitin chand
+Rohan Rawat 
+Nripendra Rawal
+Geo Emmanuel 
+Akshat dhaundiyal
+Abhishek Bisht
+Shubham Negi 
+Rakesh singh
+Nitin kumar 
+
+
+Ritik Kandari
+Tushar Jaisee
+Ayush Kagdiyal
+Krishna
+Kunal Singh Bisht
+Satish Singh 
+Rishi
+Kamal Singh
+Bhavesh bhakuni
+Priyanshu Saun
+Shubham Bisht
+Robin singh bisht
+Mayank Singh
+Nrimal Singh
+Ayush dobhal
+Vipul 
+Sahil Kanwal
+Arpit Singh Pundir
+Himanshu Negi 
+Kamlesh 
+
+
+Saurabh rawat 
+Pankaj Shing Bisht 
+Rohit bhandari
+Mohit singh dhapola
+Arjun
+Ravi Verma
+Vishesh 
+Karan Joshi
+Abhay 
+Pranjal Dalakoti
+Jatin Pathak
+Ajay singh
+Aditya Devrani
+Akshat Pant 
+Rohit koshariya
+Yogesh bhatt
+Pradyumn Badoni
+Kartik Negi 
+Ritesh Negi 
+Ashish 
+
+
+Akshit 
+Akash singh
+Prakash Rawat
+Supratibh semwal
+dhurv
+Aman panwar
+Ayush deopa
+Deepak Kanyal
+Ayush Negi
+Rohit Negi
+Kailash Singh
+Gaurav Pokhriyal
+Yugal Singh Satyal
+Sandeep Singh
+Aman panwar 
+Utkarsh singh
+Rajan Singh
+Ayush Bangwal 
+Mohit Joshi 
+Kavachi 
+
+
+Anshul gurung
+Rohit Shing
+Sameer Negi
+Kartikey joshi
+Abhineet
+Shobhit Bisht
+Bipin khatri
+Ritik Brijwasi 
+Mohit Rana 
+Nitin Pokhariyal
+Avnish Semwal
+Hemant
+Vaibhav Rawat
+Parikshit Singh
+Mohit devrani 
+Shantanu
+Harsh 
+Shobhit Thapa
+Rawat tarun
+Udit 
+
+
+Kunal khati
+Prince Pundir
+Sahil Rawat
+Sourabh jayara
+Neeraj Negi
+Abhishek Singh 
+Dhruv
+
+Rohit rana 
+Pankaj Singh Mehra
+Shray Sundly
+Rohan 
+Ayush Rawat
+Saurav Mehra
+Harsimran singh
+Harsh SIngh Negi
+Priyanshu kabsuri
+Karan Chand 
+priyanshu
+Shrestha
+
+
+Shashank bisht  
+Aviral Chetri
+Abhishek Negi
+Aman 
+Sajal rawat
+Arjun Rawat 
+Subham
+
+Sarthak 
+Abhay Singh Mehta 
+Bhomick Sharma
+Aayush 
+Ayush kaintura
+Shivam Singh
+Udit Pratap singh
+Sagar rawat
+Manohar Singh
+Ankush panchpuri
+Uttkarsh rawat
+Arun Bisht
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
